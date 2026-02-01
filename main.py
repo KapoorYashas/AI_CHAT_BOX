@@ -18,6 +18,7 @@ led    = Pin(25, Pin.OUT)                 # On-board LED (GP25)
 
 # =====================================================
 #            AUDIO & SYSTEM PARAMETERS
+#10 + parameters
 
 # =====================================================
 SAMPLE_RATE = 8000
